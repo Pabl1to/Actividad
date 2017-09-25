@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-print('Hola Mundo!!!')
-print("WEENa")
+print "Hola Mundo!!!"
+print "WEENa"
+print 1 + 3
